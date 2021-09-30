@@ -1,0 +1,21 @@
+#########################
+# UNREAL GENERATED FILES#
+#########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+
+
+#####################
+# VS GENERATED FILES#
+#####################
+*.VC.db
+*.db-shm
+*.db-wal
+*.opendb
+BuildingEscape/.vs/
+BuildingEscape/Content/StarterContent/Maps/
